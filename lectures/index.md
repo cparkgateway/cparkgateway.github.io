@@ -13,4 +13,4 @@ None for now!
 ## Week 3
 
 + [Introduction to Java Slides](https://docs.google.com/presentation/d/1ymF9ywDoHLvdsmpez8Lig7-_nwYzwoQoNzmPbUjwOsI/edit?usp=sharing)
-+ [DogTester and Dog Classes](/samples/j1)
++ [DogTester and Dog Classes](./samples/j1)
