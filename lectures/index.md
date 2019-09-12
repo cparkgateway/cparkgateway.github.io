@@ -16,3 +16,16 @@ layout: index
 
 + [Introduction to Java Slides](https://docs.google.com/presentation/d/1ymF9ywDoHLvdsmpez8Lig7-_nwYzwoQoNzmPbUjwOsI/edit?usp=sharing)
 + [DogTester and Dog Classes](./samples/j1)
+
+### Informal Assessment 1
+
++ Create a Student Class
++ Create a StudentTester Class
++ A Student object has following properties:
+  + age
+  + gender
+  + grade
+  + GPA
+  + number of courses taken
++ You should make 5 Student objects
++ Make a toString method to display all relevant data on the console.
