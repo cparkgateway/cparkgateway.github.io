@@ -6,7 +6,9 @@ layout: index
 
 # Web Design
 
-None for now!
+## Week 3
+
++ [Revisit to Basics](https://docs.google.com/presentation/d/1OhmwnY-Vvdhp45NctetzUEjbz4zE2BulYQimjjwlPXc/edit?usp=sharing)
 
 # OOP w/ Java
 
