@@ -4,6 +4,12 @@ description: Links and Samples for past lectures
 layout: index
 ---
 
+## How to turn in your assignment
+
++ Create a zip file with all the neccessary files required for me to run it, name the file: (firstname_lastname).zip, without the brackets and using your own name.
++ Send me an email with the title: "your course name - Assignment 1", without quotation and course names should be either: Web Design or OOP w/ Java.
++ My email is cpark@int-gateway.org
+
 # Web Design
 
 ## Week 3
