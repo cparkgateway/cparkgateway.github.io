@@ -9,6 +9,8 @@ layout: index
 ## Week 3
 
 + [Revisit to Basics](https://docs.google.com/presentation/d/1OhmwnY-Vvdhp45NctetzUEjbz4zE2BulYQimjjwlPXc/edit?usp=sharing)
++ [Revisit to Basics (CSS)](https://docs.google.com/presentation/d/19uaFLW-m-TXsM5GYgqT1-qGNCLwut8fOIrjVLL8zSAg/edit?usp=sharing)
++ [Example Code for Recipe](./samples/w1)
 
 # OOP w/ Java
 
