@@ -14,3 +14,4 @@ layout: index
 + [Where's Waldo? 1](/assets/Wheres Waldo.jpg)
 + [Where's Waldo? 2](/assets/Wheres Waldo2.jpg)
 + [Where's Waldo? 3](/assets/Wheres Waldo3.jpg)
++ [Where's Waldo Sample](/assets/Sample.jpg)
