@@ -20,4 +20,4 @@ layout: index
 
 ### Grade 3 & 4
 
-+ [Reference](/assets/gen)
++ [Reference](./assets/gen)
