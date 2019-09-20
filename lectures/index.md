@@ -21,6 +21,7 @@ layout: index
 ## Week 4
 
 + [Wonders List](./wonderlist)
++ [2nd Assignment Details](https://docs.google.com/presentation/d/1mGp34n1WEQfBZNnGU-WyYqkwgD6TJYV4o63-HPTcy1g/edit?usp=sharing)
 
 ---
 
