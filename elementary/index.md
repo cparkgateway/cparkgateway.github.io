@@ -31,3 +31,18 @@ layout: index
 + [8](./assets/gen/birb.jpg)
 + [9](./assets/gen/animals.jpg)
 + [10](./assets/gen/people.jpg)
+
+## Week 6
+
+### Grade 1 & 2
+
+
+
+### Grade 3 & 4
+
+Instructions
+
+1. Create a folder on desktop with your name and grade written on it.
+1. Create 5 text files with a food name, write 3 ingredients for it inside the text file.
+1. Create 5 text files with a drink name, write 3 ingredients for it inside the text file.
+1. Draw 3 pictures of either: house, ice cream, cat, dog, sky, flower, jar, tower or mouse. Then save it in your folder.
