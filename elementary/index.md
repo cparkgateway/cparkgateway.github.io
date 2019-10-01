@@ -36,7 +36,8 @@ layout: index
 
 ### Grade 1 & 2
 
-
++ [Key Bricks](https://www.typinggames.zone/keybricks)
++ [Typing Attack](https://www.typinggames.zone/typingattack)
 
 ### Grade 3 & 4
 
