@@ -23,6 +23,18 @@ layout: index
 + [Wonders List](./wonderlist)
 + [2nd Assignment Details](https://docs.google.com/presentation/d/1mGp34n1WEQfBZNnGU-WyYqkwgD6TJYV4o63-HPTcy1g/edit?usp=sharing)
 
+## Week 8-12
+
+### Rubric for 2nd Project
+
++ 5 pts for idea
++ 15 pts for organization
++ 40 pts for functionality
++ 10 pts for stability
++ 10 pts for design
++ 10 pts for UI
++ 10 pts for delivery
+
 ---
 
 # OOP w/ Java
