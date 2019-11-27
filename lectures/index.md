@@ -35,6 +35,17 @@ layout: index
 + 10 pts for UI
 + 10 pts for delivery
 
+## Week 13
+
+### Updating Recipe Page - Requirements
+
++ Improved CSS formatting with comments
++ Add 4 new icons/text with calories, servings, time taken and difficulty
++ Each step should contain a picture (if possible) to their left or right of text, not vertical
++ Ingredients must be listed in any other format EXCEPT vertical.
++ Usage of background image is HIGHLY advised.
++ Don't forget to cite sources using comments
+
 ---
 
 # OOP w/ Java
