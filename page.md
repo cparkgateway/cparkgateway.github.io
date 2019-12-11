@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: page
+description: this is a test
 layout: index
 ---
 
