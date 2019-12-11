@@ -11,3 +11,7 @@ Welcome to the HS IT courses homepage excluding computer physiology! Majority of
 + [Page1](/page)
 + [Page2](/page2)
 + [Page3](/page3)
+
+---
+
++ [7 Wonders](./wonder/mainpage)
