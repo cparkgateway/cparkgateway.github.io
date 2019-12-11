@@ -1,7 +1,7 @@
 ---
 title:
 description:
-layout: master
+layout: index
 ---
 
 # This is a random page
