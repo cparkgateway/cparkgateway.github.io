@@ -8,10 +8,4 @@ layout: index
 
 Welcome to the HS IT courses homepage excluding computer physiology! Majority of lecture related files, examples, codes will be uploaded here!
 
-+ [Page1](/page)
-+ [Page2](/page2)
-+ [Page3](/page3)
-
----
-
-+ [7 Wonders](./wonder/mainpage)
+[End of the Semester Survey!](https://forms.gle/kSMc4QeiK9Mxij2g7) *requires IGA email login*
