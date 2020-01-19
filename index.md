@@ -8,4 +8,9 @@ layout: index
 
 Welcome to the HS IT courses homepage excluding computer physiology! Majority of lecture related files, examples, codes will be uploaded here!
 
-[End of the Semester Survey!](https://forms.gle/kSMc4QeiK9Mxij2g7) *requires IGA email login*
+Courses offered this school year:
+
++ OOP w/ Java
++ Web Design
++ Introduction to Image Editing / Animation
++ Introduction to Python Programming / Scripting
