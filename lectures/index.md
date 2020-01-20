@@ -14,3 +14,9 @@ layout: index
 
 + Download Python 3.8.1 using this [link](https://www.python.org/ftp/python/3.8.1/python-3.8.1-amd64.exe)
 + Download MS Visual Studio Code from this [link](https://code.visualstudio.com/)
+
+## Tasks List
+
+| Task No. & Link | Description |
+| --------------- | ----------- |
+| [Task 1](./python/task1) | Create a basic Pascal's triangle using prints. |
