@@ -20,3 +20,11 @@ layout: index
 | Task No. & Link | Description |
 | --------------- | ----------- |
 | [Task 1](./python/task1) | Create a basic Pascal's triangle using prints. |
+
+# Image Editing & Animation
+
++ Download GIMP using this [link](https://www.gimp.org/downloads/)
+
+## Tasks List
+
+None for now.
