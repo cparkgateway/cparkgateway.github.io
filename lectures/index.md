@@ -31,6 +31,7 @@ layout: index
 | ---- | ----------- | - |
 | Week 1 - Color Theory | [Frostleaf](https://gamepress.gg/arknights/sites/arknights/files/2019-10/char_193_frostl_1.png) | Let's analyze the color schema the artist used on this picture. |
 | Week 1 - Color Theory | [Magic the Gathering Lands](https://www.crystalcommerce.com/blog/wp-content/uploads/sites/2/2019/12/lands.png) | MTG is one of, if not the oldest trading card game in history. They have very distinct set color restrictions set on their artworks. |
+| Week 1 & 2 - Pixel Art | [Isometric Tileset](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/8492662/original/8265449463b0e4648a07b73a53c5bfc085981072/make-a-pixel-art-tile-pack-for-you.png) | Let's talk about Isometric and Orthogonal views |
 
 ## Tasks List
 
