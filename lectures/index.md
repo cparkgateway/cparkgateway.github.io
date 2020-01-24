@@ -25,6 +25,13 @@ layout: index
 
 + Download GIMP using this [link](https://www.gimp.org/downloads/)
 
+## References
+
+| Week & Topic | Link | Description |
+| ---- | ----------- | - |
+| Week 1 - Color Theory | [Frostleaf](https://gamepress.gg/arknights/sites/arknights/files/2019-10/char_193_frostl_1.png) | Let's analyze the color schema the artist used on this picture. |
+| Week 1 - Color Theory | [Magic the Gathering Lands](https://www.crystalcommerce.com/blog/wp-content/uploads/sites/2/2019/12/lands.png) | MTG is one of, if not the oldest trading card game in history. They have very distinct set color restrictions set on their artworks. |
+
 ## Tasks List
 
-None for now.
+None for now
