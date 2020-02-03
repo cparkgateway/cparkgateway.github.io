@@ -20,6 +20,14 @@ layout: index
 | Task No. & Link | Description |
 | --------------- | ----------- |
 | [Task 1](./python/task1) | Create a basic Pascal's triangle using prints. |
+| [Task 2](./python/task2) | Answering more important questions in life. |
+| [Task 3](./python/task3) | BMI Calculator. |
+
+## Lecture Slides List
+
+| Slides Link | Topic | Week No. |
+| ----------- | ----- | -------- |
+| [1](https://docs.google.com/presentation/d/1rQDWyOqOuXNIJuLoEhuvLpeWiDoaWIKX4giRJz6g_yU/edit?usp=sharing) | Syntax / Variables | 2 |
 
 # Image Editing & Animation
 
