@@ -10,6 +10,10 @@ Portfolio is a set of creative works.
 
 The + α means that any overflow grade from this criteria will boost your other parts if needed.
 
+Expected total work hours: 8~10
+
+Expected amount of pixels worked on: 640x640+
+
 ## Tech Skills Criteria (30%)
 
 One should try to satisfy most, but not necessarily all criteria.
