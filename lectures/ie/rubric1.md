@@ -22,6 +22,7 @@ Expected amount of pixels worked on: 640x640+
 1. Portrait of NBA players but in pixels (RIP Kobe)
 1. Forest Things
 1. Collection of Well Edited Images
+1. Your Own Font
 
 ## Tech Skills Criteria (30%)
 
