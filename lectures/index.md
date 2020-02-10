@@ -43,4 +43,6 @@ layout: index
 
 ## Tasks List
 
-None for now
+| Week & Topic | Details |
+| ------------ | ------- |
+| Week 4~6 - Portfolio | Porfolio, by definition, just means a set of creative works. This class has quite a bit of art component to it even though it's an IT course. Therefore, here is the following rubric you will follow: [link](./ie/rubric1) |
