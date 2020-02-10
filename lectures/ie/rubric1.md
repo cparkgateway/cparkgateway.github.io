@@ -14,6 +14,15 @@ Expected total work hours: 8~10
 
 Expected amount of pixels worked on: 640x640+
 
+### Example Themes
+
+1. Town
+1. Architecture
+1. Arthurian Legends
+1. Portrait of NBA players but in pixels (RIP Kobe)
+1. Forest Things
+1. Collection of Well Edited Images
+
 ## Tech Skills Criteria (30%)
 
 One should try to satisfy most, but not necessarily all criteria.
