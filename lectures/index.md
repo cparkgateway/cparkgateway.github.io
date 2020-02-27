@@ -29,6 +29,8 @@ layout: index
 | ----------- | ----- | -------- |
 | [1](https://docs.google.com/presentation/d/1rQDWyOqOuXNIJuLoEhuvLpeWiDoaWIKX4giRJz6g_yU/edit?usp=sharing) | Syntax / Variables | 2 |
 
+Weekday Program Source Code [link](/samples/weekday)
+
 # Image Editing & Animation
 
 + Download GIMP using this [link](https://www.gimp.org/downloads/)
