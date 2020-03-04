@@ -47,3 +47,11 @@ Instructions
 1. Create 5 text files with a food name, write 3 ingredients for it inside the text file.
 1. Create 5 text files with a drink name, write 3 ingredients for it inside the text file.
 1. Draw 3 pictures of either: house, ice cream, cat, dog, sky, flower, jar, tower or mouse. Then save it in your folder.
+
+---
+
+## 3rd Quarter - Week 24 (ish)
+
++ [Typing](https://www.typing.com/student)
+
+Get your login credentials from the teacher.
